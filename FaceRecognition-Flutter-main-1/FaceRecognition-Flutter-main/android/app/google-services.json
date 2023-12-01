@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "297472054693",
+    "firebase_url": "https://signin-e9eef-default-rtdb.firebaseio.com",
+    "project_id": "signin-e9eef",
+    "storage_bucket": "signin-e9eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297472054693:android:68366bc15f919f56a4044c",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297472054693-oq351qlmi8jrdrgjr8h4i8ptn2hvm3te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_signin",
+            "certificate_hash": "371c08d7a7e9de8e986817831162cd56d615db5d"
+          }
+        },
+        {
+          "client_id": "297472054693-mt7rdkcta6av64lpurffi63r68vbch50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxVzMaPzvGmlKKnQLW8XcqLMCmx8tbH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297472054693-931kjio23bcs63t8hulfaiasvamka43h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297472054693-26t5jgggediih9001viadgriub18tcsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kbyai.facerecog"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297472054693:android:e608af53c25b94ffa4044c",
+        "android_client_info": {
+          "package_name": "com.example.homepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297472054693-o8gdr21i3g59lu32jifsvr2o2jjfovno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepage",
+            "certificate_hash": "371c08d7a7e9de8e986817831162cd56d615db5d"
+          }
+        },
+        {
+          "client_id": "297472054693-mt7rdkcta6av64lpurffi63r68vbch50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxVzMaPzvGmlKKnQLW8XcqLMCmx8tbH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297472054693-931kjio23bcs63t8hulfaiasvamka43h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297472054693-26t5jgggediih9001viadgriub18tcsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kbyai.facerecog"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297472054693:android:05d8204b19025f69a4044c",
+        "android_client_info": {
+          "package_name": "com.kbyai.facerecognition_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297472054693-im94d94kpaa7k08q2u202eurduql9khl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbyai.facerecognition_flutter",
+            "certificate_hash": "371c08d7a7e9de8e986817831162cd56d615db5d"
+          }
+        },
+        {
+          "client_id": "297472054693-mt7rdkcta6av64lpurffi63r68vbch50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxVzMaPzvGmlKKnQLW8XcqLMCmx8tbH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297472054693-931kjio23bcs63t8hulfaiasvamka43h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297472054693-26t5jgggediih9001viadgriub18tcsb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kbyai.facerecog"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

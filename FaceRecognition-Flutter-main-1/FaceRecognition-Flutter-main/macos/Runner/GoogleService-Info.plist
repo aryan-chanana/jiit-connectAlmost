@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>297472054693-2uct3ik7edikuqnbkpo8ukku1e4mq0an.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.297472054693-2uct3ik7edikuqnbkpo8ukku1e4mq0an</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>297472054693-o8gdr21i3g59lu32jifsvr2o2jjfovno.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtUitCkhC3CIfWETzS6UU5L4L55Z2Z8Nc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>297472054693</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.facerecognitionFlutter.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>signin-e9eef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signin-e9eef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:297472054693:ios:f970527b01a95fd4a4044c</string>
+	<key>DATABASE_URL</key>
+	<string>https://signin-e9eef-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
